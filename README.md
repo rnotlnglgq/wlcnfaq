@@ -42,7 +42,7 @@
 
 `WorkingPrecision` 和 `PerformanceGoal`
 
-`FindRoot` 的 `Evaluated` 选项与 `NumericQ`
+[`FindRoot` 的 `Evaluated` 选项与 `NumericQ`](FAQ/NestedNumericalComputation.md)
 
 ### 可视化
 
@@ -67,3 +67,5 @@
 ### 安装与运行
 
 ## 精品教程
+
+[从前端到后端再到前端：Mathematica 表达式计算的前世今生](Tutorial/FrontEndAndKernel.md)
