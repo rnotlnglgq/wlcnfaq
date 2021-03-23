@@ -2,7 +2,7 @@
 
 本项目试图建立一个对最常被遇见、被问及的 Wolfram 语言和 Mathematica 问题的实用、详尽的中文解答，以减少相关中文社区的建设者的重复劳动。当有人在为他人解答某一常见问题时，可以引用、链接此处内容。
 
-计划逐步翻译 [[What are the most common pitfalls awaiting new users?](https://mathematica.stackexchange.com/questions/18393/what-are-the-most-common-pitfalls-awaiting-new-users)](https://mathematica.stackexchange.com/questions/18393/what-are-the-most-common-pitfalls-awaiting-new-users)
+计划逐步翻译 [What are the most common pitfalls awaiting new users?](https://mathematica.stackexchange.com/questions/18393/what-are-the-most-common-pitfalls-awaiting-new-users)
 
 ## 问题索引
 
