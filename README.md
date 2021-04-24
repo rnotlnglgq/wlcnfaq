@@ -22,7 +22,7 @@
 
 `With` `Block` `Module`
 
-[消息：表达式中的符号被保护](FAQ/TagProtected.md)
+[消息：表达式中的标签被保护](FAQ/TagProtected.md)
 
 [消息：应当是方程或方程列表，而不是True](FAQ/TrueFalseEquation.md)
 
