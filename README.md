@@ -4,6 +4,8 @@
 
 计划逐步翻译 [What are the most common pitfalls awaiting new users?](https://mathematica.stackexchange.com/questions/18393/what-are-the-most-common-pitfalls-awaiting-new-users)
 
+欢迎为此项目贡献。
+
 ## 问题索引
 
 ### 核心语言
@@ -20,7 +22,9 @@
 
 `With` `Block` `Module`
 
-[应当是方程或方程列表，而不是True](FAQ/TrueFalseEquation.md)
+[消息：表达式中的符号被保护](FAQ/TagProtected.md)
+
+[消息：应当是方程或方程列表，而不是True](FAQ/TrueFalseEquation.md)
 
 一般表达式还是列表索引？
 
