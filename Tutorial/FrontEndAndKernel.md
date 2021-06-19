@@ -15,7 +15,7 @@
 
 框符是 Mathematica 的排版系统所处理的基本单元，这种设计摆脱了一般编程语言的纯文本输入限制，使得你可以更方便地输入、观察。
 
-每一个框符都可以用 `InputForm` 的 Wolfram 语言表达式来表示，上图中第二行的 $a^b$ 和第四行的 $\begin{matrix} 1&2&3\\ 4&5&6 \end{matrix}$ 分别表示为：
+每一个框符都可以用 `InputForm` 的 Wolfram 语言表达式来表示，上图中第二行的 $a^b$ 和第四行的 $\begin{matrix} 1&2&3\\\\ 4&5&6 \end{matrix}$ 分别表示为：
 
 ```mathematica
 SuperscriptBox["a", "b"]
