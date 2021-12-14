@@ -28,7 +28,7 @@
 
 一般表达式还是列表索引？
 
-Set 与 SetDelayed
+[在数值函数定义中使用要求形式参数的函数](FAQ/SetDelayedAndSymbolsAsSlots.md)
 
 #### 进阶
 
@@ -48,17 +48,27 @@ Set 与 SetDelayed
 
 符号矩阵/维度数未定的矩阵
 
+`Abs'`
+
 #### 进阶
 
 `WorkingPrecision` 和 `PerformanceGoal`
 
 [FindRoot 的 Evaluated 选项与 NumericQ](FAQ/NestedNumericalComputation.md)
 
+自定义概率分布
+
+避免 `DSolve` 使用逆函数
+
 ### 可视化
 
 #### 入门
 
 空白绘图
+
+#### 进阶
+
+提高绘图质量
 
 ### Mathematica
 
@@ -83,6 +93,8 @@ Set 与 SetDelayed
 [从前端到后端再到前端：Mathematica 表达式计算的前世今生](Tutorial/FrontEndAndKernel.md)
 
 为什么应当避免使用下标？难道这个功能没有实际意义？
+
+Wolfram语言内置函数与自定义函数的设计范式
 
 ### 常见的专门化需求
 
